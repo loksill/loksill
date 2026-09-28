@@ -1,4 +1,4 @@
-# Sup, I'm Loksik! 👋
+# Привет, я Loksik! 👋
 
 <div align="center">
 
@@ -8,12 +8,12 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 Обо мне
 
 <!--
 ```yaml
 name: Loksik
-location: Russia
+location: Россия
 role: Space Station 14 Developer
 engine: Robust Toolbox
 os: Arch Linux
@@ -27,20 +27,20 @@ languages:
 ```
 
 -->
-I develop forks of **Space Station 14** on the **Robust Toolbox** engine. I love low-level optimization, clean code, and a beautiful Linux desktop. My setup is **Arch Linux** with **Hyprland** and customized **HyDE**.
+Занимаюсь разработкой форков **Space Station 14** на движке **Robust Toolbox**. Люблю низкоуровневую оптимизацию, чистый код и красивый Linux-десктоп. Мой сетап — **Arch Linux** с **Hyprland**, и кастомизированным под себя **HyDE**.
 
 ---
 
-## 🛠️ Technologies and Tools
+## 🛠️ Технологии и инструменты
 
-### Programming Languages
+### Языки программирования
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Environment and Tools
+### Окружение и инструменты
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Hyprland](https://img.shields.io/badge/Hyprland-58E1FF?style=for-the-badge&logo=wayland&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -49,22 +49,22 @@ I develop forks of **Space Station 14** on the **Robust Toolbox** engine. I love
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-### My Desktop Stack
-- 🐧 **[Arch Linux](https://archlinux.org/)** — "I use Arch, btw"
-- 🪟 **[Hyprland](https://hyprland.org/)** — dynamic tiling Wayland compositor
-- 🎨 **[HyDE](https://github.com/prasanthrangan/hyprdots)** — my customized fork for the perfect workflow
-- 💻 **[VS Code with my scripts](https://github.com/loksill/vscode-loksik-scripts)** — automated editor setup
+### Мой десктоп-стек
+- 🐧 **[Arch Linux](https://archlinux.org/)** — «I use Arch, btw»
+- 🪟 **[Hyprland](https://hyprland.org/)** — динамический тайловый Wayland-композитор
+- 🎨 **[HyDE](https://github.com/prasanthrangan/hyprdots)** — мой кастомизированный форк для идеального рабочего процесса
+- 💻 **[VS Code с моими скриптами](https://github.com/loksill/vscode-loksik-scripts)** — автоматизированная настройка редактора
 
 ---
 
-## 📌 Projects
+## 📌 Проекты
 
 <table>
   <tr>
     <td width="50%">
       <h3 align="center">🚀 Goob Station</h3>
       <p align="center">
-        A fork of <b>Space Station 14</b> on <b>Robust Toolbox</b>. Development of game logic, mechanics, and systems. <i>By chuds, for chuds.</i>
+        Форк <b>Space Station 14</b> на <b>Robust Toolbox</b>. Разработка игровой логики, механик и систем. <i>By chuds, for chuds.</i>
       </p>
       <p align="center">
         <a href="https://github.com/loksill/Goob-Station">
@@ -75,7 +75,7 @@ I develop forks of **Space Station 14** on the **Robust Toolbox** engine. I love
     <td width="50%">
       <h3 align="center">⚙️ VS Code Scripts</h3>
       <p align="center">
-        My scripts for automatic installation and configuration of VS Code.
+        Мои скрипты автоматической установки и настройки VS Code.
       </p>
       <p align="center">
         <a href="https://github.com/loksill/vscode-loksik-scripts">
@@ -88,7 +88,7 @@ I develop forks of **Space Station 14** on the **Robust Toolbox** engine. I love
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Статистика GitHub
 
 <div align="center">
 
@@ -101,7 +101,7 @@ I develop forks of **Space Station 14** on the **Robust Toolbox** engine. I love
 
 ---
 
-## 🌐 Contact Me
+## 🌐 Свяжитесь со мной
 
 <div align="center">
 
@@ -118,7 +118,7 @@ I develop forks of **Space Station 14** on the **Robust Toolbox** engine. I love
 
 <div align="center">
 
-### 💬 "Talk is cheap. Show me the code." — Linus Torvalds
+### 💬 «Talk is cheap. Show me the code.» — Linus Torvalds
 
 ![Profile Views](https://komarev.com/ghpvc/?username=loksill&color=1793D1&style=for-the-badge&label=PROFILE+VIEWS)
 
@@ -127,7 +127,7 @@ I develop forks of **Space Station 14** on the **Robust Toolbox** engine. I love
 ---
 
 <details>
-<summary>⚡ Easter Egg</summary>
+<summary>⚡ Пасхалка</summary>
 <br>
 <code>git clone https://github.com/loksill/vscode-loksik-scripts && cd vscode-loksik-scripts && sh install-linux.sh</code>
 <br><br>
