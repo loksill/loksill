@@ -9,6 +9,7 @@
 ---
 
 ## 🚀 About Me
+[🇷🇺 Русская версия](README_RU.md)
 
 <!--
 ```yaml
@@ -27,7 +28,7 @@ languages:
 ```
 
 -->
-I develop forks of **Space Station 14** on the **Robust Toolbox** engine. I love low-level optimization, clean code, and a beautiful Linux desktop. My setup is **Arch Linux** with **Hyprland** and customized **HyDE**.
+I develop forks of **Space Station 14** on the **Robust Toolbox** engine. I also maintain **BomBom Launcher** — a feature-rich launcher for SS14 with resource packs, plugins, and a redesigned UI. I love low-level optimization, clean code, and a beautiful Linux desktop. My setup is **Arch Linux** with **Hyprland** and customized **HyDE**.
 
 ---
 
@@ -62,13 +63,13 @@ I develop forks of **Space Station 14** on the **Robust Toolbox** engine. I love
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">🚀 Goob Station</h3>
+      <h3 align="center">🚀 BomBom Launcher</h3>
       <p align="center">
-        A fork of <b>Space Station 14</b> on <b>Robust Toolbox</b>. Development of game logic, mechanics, and systems. <i>By chuds, for chuds.</i>
+        A fork of <b>helix-launcher</b> for <b>Space Station 14</b> with Marsey functionality, resource packs, plugins, and a redesigned menu.
       </p>
       <p align="center">
-        <a href="https://github.com/loksill/Goob-Station">
-          <img src="https://img.shields.io/badge/Repo-Goob--Station-purple?style=for-the-badge&logo=github"/>
+        <a href="https://github.com/loksill/BomBom-launcher">
+          <img src="https://img.shields.io/badge/Repo-BomBom--launcher-1793D1?style=for-the-badge&logo=github"/>
         </a>
       </p>
     </td>
